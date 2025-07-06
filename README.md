@@ -1,7 +1,7 @@
 # imdb_rating_prediction
 This project predicts IMDb ratings of TV shows using features like genre, release year, and vote count. It uses models such as Linear Regression, Random Forest, Gradient Boosting, and CatBoost with tuning. The goal is to build an accurate model and evaluate performance using MAE, MSE, and R².
 
-# IMDb Rating Prediction using Machine Learning
+# IMDB Rating Prediction using Machine Learning
 This mini-project aims to predict IMDb ratings of TV shows based on genre, release year, and number of votes. The dataset is processed and modeled using various regressors including Linear Regression, Random Forest, Gradient Boosting, and CatBoost with hyperparameter tuning.
 
 ## Dataset Overview
