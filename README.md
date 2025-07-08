@@ -79,3 +79,5 @@ scikit-learn
 catboost
 
 ## Author : Khizareen Taj
+
+## streamLit : https://imdbratingprediction-srfkj4udrjb3aphhewtwgw.streamlit.app/
